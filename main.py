@@ -1,3 +1,4 @@
 from funcs import sum
+from funcs import sub
 
-print(sum(89, 1))
+print(sub(89, 1))
